@@ -1,30 +1,33 @@
 header {
-    background-color:blue;
-  }
-  
-  article {
-    background-color:green;
-  }
-  
-  .blocks {
-    border:solid pink 10px;
-  }
-  
-  .inlines {
-    border: solid yellow;
-    height: 
-  }
-  
-  .inlineBlock {
-    display: inline-block;
-    border: solid pink;
-  }
-  
-  #big {
-    height:100px
-  }
-  
-  #bigger {
-    height: 150px;
-  }
-  
+  background-color:blue;
+}
+
+article {
+  background-color: green
+}
+
+.blocks {
+  border: solid pink 10px;
+}
+
+.inlines {
+  border: solid yellow; 
+}
+
+.inlineBlock {
+  display: inline-block;
+  border: solid pink;
+}
+
+
+#header {
+  font-size: 20px;
+}
+
+#big {
+  height:100px;
+}
+
+#bigger {
+  height: 150px;
+}
