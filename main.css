@@ -6,6 +6,10 @@ article {
   background-color: green
 }
 
+body {
+  background-color: darkgrey;
+}
+
 .blocks {
   border: solid pink 10px;
 }
