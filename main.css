@@ -19,6 +19,9 @@ article {
   border: solid pink;
 }
 
+.text {
+  color:rgb(1, 1, 46);
+}
 
 #header {
   font-size: 20px;
